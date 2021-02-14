@@ -10,7 +10,7 @@
         <div class="col-md-4">
             <div class="card" style="width: 40rem;">
                 <div class="card-body">
-                    <h1 class="card-title "> Formulario de Actualizacion Profesores</h1>
+                    <h1 class="card-title ">    Formulario de Actualizacion Profesores</h1>
                 </div>
                 <form action="{{route('actualizarProfesor', $profesor->id )}}" method= "POST">
                     @csrf
