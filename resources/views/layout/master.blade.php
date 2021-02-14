@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="en">
+
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Registro de notas</title>
+        <title>Sistema de Registro</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -27,13 +28,13 @@
             <script type="text/javascript" src="{{ url('/assets/bootstrap/js/mdb.min.js') }}"></script> 
     </body>
 
-    <footer class="page-footer font-small black special-color-dark">
+    <footer class="page-footer font-small black special-color- bg-indigo">
     <div class="container-fluid text-center text-md-left">
         <div class="row">
             <div class="col-md-6 mt-md-0 mt-3">
-                <h5 class="text-uppercase">Presentado a:</h5>
-                <a href="#!">Ingeniera  </a>
-
+                <h5 class="text-uppercase">     <em>Presentado a:     </em></h5>
+                <a href="#!"> Ing. Sandra Marcela Guerrero </a>
+           
             </div>
             <hr class="clearfix w-100 d-md-none pb-3">
             <div class="col-md-3 mb-md-0 mb-3">
@@ -41,7 +42,7 @@
                 <ul class="list-unstyled">
                     <li>
                          <a href="#!">Miguel Angel Florez</a>
-                         <br><a href="#!">Yasmani Alexander </a>
+                         <br><a href="#!">Yasmani Alexander Tapia </a>
                     </li>
                     <li>
                        

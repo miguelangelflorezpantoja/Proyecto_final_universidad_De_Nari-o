@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-@extends('layout.master')
-    @section('content')
-    <body background="{{url('imag/notas.jpg')}}">
+@extends('layouts.app')
+@section('content')
+<body background="{{url('imag/notas.jpg')}}">
 
 <!--Carousel Wrapper-->
 <div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
@@ -43,5 +42,4 @@
 </div>
 <!--/.Carousel Wrapper-->
 
-
-    @stop
+@stop

@@ -9,15 +9,6 @@ class administracion extends Controller
     
 
     public function index(){
-
-
-
-
-        return view ('principal');
-
-
-
-        
-
+        return view ('welcome');
     }
 }
