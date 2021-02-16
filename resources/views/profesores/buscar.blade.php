@@ -2,6 +2,8 @@
 @extends('layout.master')
 <h1 class="card-title " align="center"> Datos de la busqueda</h1>
 <table class="table">
+
+
     <thead>
         <tr>
             <th scope="col">#</th>
@@ -10,6 +12,7 @@
             <th scope="col">Dirccion </th>
             <th scope="col">Telefono </th>
             <th scope="col">Correo </th>
+
         </tr>
     </thead>
     <tbody>
