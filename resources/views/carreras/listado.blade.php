@@ -58,14 +58,15 @@
                                     </button>
 
                                     <!-- Modal -->
-                                    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                                    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitleEl" aria-hidden="true">
                                     <div class="modal-dialog modal-dialog-centered" role="document">
                                         <div class="modal-content">
                                         <div class="modal-body">
-                                                <b>Esta seguro de eliminar?</b>
+                                                <h1>Esta seguro de eliminar?</h1>
                                         </div>
                                         <div class="modal-footer" >
                                         <a href="{{route('eliminarCarrera', $c->id)}}"  class="btn btn-danger" > Si </a>
+                                        
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">No</button>
                                         </div>
                                         </div>

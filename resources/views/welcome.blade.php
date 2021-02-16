@@ -93,7 +93,7 @@ cuerpo<img class="d-block w-100" src="{{ url('/imag/bg.jpg') }}" height="550" al
                 <ul class="list-unstyled">
                     <li>
                          <a href="#!">Miguel Angel Florez</a>
-                         <br><a href="#!">Yasmani Alexander </a>
+                     <br><a href="#!">Yasmani Alexander </a>
                     </li>
                     <li>
                        
